@@ -1,0 +1,13 @@
+.Login.container {
+  float:none;
+  position:static;
+  display:block;
+  margin:auto;
+  width:max-content;
+}
+
+
+.photo {
+  height: 400px;
+  width: 400px;
+}
